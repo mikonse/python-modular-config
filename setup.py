@@ -13,7 +13,7 @@ setuptools.setup(
     scripts=[],
     author='Michael Loipfuehrer',
     author_email='',
-    description='A Docker and AWS utility package',
+    description='A modular python configuration utility',
     long_description=readme(),
     long_description_content_type='text/markdown',
     url='http://github.com/mikonse/modular_conf',

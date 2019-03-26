@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-python3.7 setup.py bdist_wheel
+python3.7 setup.py sdist bdist_wheel
